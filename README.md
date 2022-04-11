@@ -1,3 +1,3 @@
-# PROJECT_ON_JAVA
+# PROJECT_ON_C_SHARP
 
-This project is made in my java course. 
+This project is made in my SDP II course. 
